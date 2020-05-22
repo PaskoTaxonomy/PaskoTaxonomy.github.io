@@ -12,6 +12,17 @@ header {
   max-height:500px;
 }
 
+.img-fluid {
+	max-width: 1%
+	max-height: 10%;
+	margin-right: 100px;
+}
+
+.float-left {
+	width: 10px
+	max-height: 5%;
+}
+
 .verticalcenter {
     /*display: table-cell;*/
     /*height: 400px;*/
