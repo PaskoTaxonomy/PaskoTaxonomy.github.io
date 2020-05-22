@@ -12,6 +12,10 @@ header {
   max-height:500px;
 }
 
+body {
+	margin-top:50px;
+}
+
 .verticalcenter {
     /*display: table-cell;*/
     /*height: 400px;*/
